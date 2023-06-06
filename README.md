@@ -20,7 +20,7 @@ cd hello-world
 Clone this repo.
 
 ```bash
-git clone https://github.com/VinothManickam/stackblitz-react.git
+git clone https://github.com/VinothManickam/react-hello.git
 ```
 
 ## Running
